@@ -19,10 +19,6 @@ Task/
 | Task A | BRISC | Đinh Thị Thùy Dương | 23110010 |
 | Task B | Sperm Detection and DNA Fragmentation Assessment | Bùi Hà Bảo Khanh | 23110168 |
 
-## Mô tả
-
-- **Task A – BRISC**: [mô tả ngắn gọn nội dung/bài toán của Task A tại đây].
-- **Task B – Sperm Detection and DNA Fragmentation Assessment**: [mô tả ngắn gọn nội dung/bài toán của Task B tại đây].
 
 ## Cách sử dụng
 
